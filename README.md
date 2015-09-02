@@ -1,2 +1,2 @@
 # nulljs
-New JS framework
+New JS superheroic minimalistic framework/library/utility that makes nothing. Sorry, it writes to console null ...
